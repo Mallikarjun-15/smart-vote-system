@@ -1,8 +1,14 @@
-streamlit
+# UI
+streamlit>=1.30
+
+# Core image / CV stack
 opencv-python
 numpy
 Pillow
+
+# Database + auth
 sqlalchemy
 bcrypt
-deepface
 
+# Face recognition
+deepface>=0.0.95
