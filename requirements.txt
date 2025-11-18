@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+Pillow
+sqlalchemy
+bcrypt
+deepface
+
